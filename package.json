@@ -13,7 +13,7 @@
     "url": ""
   },
   "scripts": {
-    "start": "node sundae.json
+    "start": "node sundae/app.js 
 ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
