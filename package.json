@@ -13,7 +13,7 @@
     "url": ""
   },
   "scripts": {
-    "start": "node Jowie-rep.js
+    "start": "node sundae.js
 ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
