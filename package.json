@@ -18,4 +18,8 @@
   "author": "",
   "license": "MIT",
   "readme": "This is a dummy readme"
+
+"scripts": {
+    "start": "node your-script.js"
+}
 }
