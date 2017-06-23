@@ -13,7 +13,7 @@
     "url": ""
   },
   "scripts": {
-    "start": "node Dtrjowie/Jowie-rep.js
+    "start": "node Jowie-rep.js
 ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
